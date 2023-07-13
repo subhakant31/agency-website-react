@@ -15,11 +15,11 @@ function Header(){
                 <nav>
                 
                 <ul className="header-ul">
-                    <li><a href="#"  className="header-el active-header-el ">home</a></li>
-                    <li><a href="#"  className="header-el ">about</a></li>
-                    <li><a href="#" className="header-el ">service</a></li>
-                    <li><a href="#" className="header-el ">price</a></li>
-                    <li><a href="#" className="header-el ">testimonial</a></li>
+                    <li><a href="#"  className="header-el active-header-el">home</a></li>
+                    <li><a href="#"  className="header-el">about</a></li>
+                    <li><a href="#" className="header-el">service</a></li>
+                    <li><a href="#" className="header-el">price</a></li>
+                    <li><a href="#" className="header-el">testimonial</a></li>
                 </ul>
             </nav>
             <div className="contact-us-wrapper">
